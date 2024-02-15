@@ -3,3 +3,6 @@ Exercice 6.2 NGUYEN Phuc Luan
 Exo 7 - Gestion de conflits
 
 Exo 8 - Branches, merges
+Exo 7 - Gestion de conflict
+
+Exo 8 Branches
